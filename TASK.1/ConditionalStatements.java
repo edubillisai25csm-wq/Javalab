@@ -42,7 +42,7 @@ public class ConditionalStatements {
 
             case 3:
 
-               System.out.print("Enter Percentage: ");
+               System.out.println("Enter Percentage: ");
                     double per = sc.nextDouble();
 
                     if (per >= 90)
