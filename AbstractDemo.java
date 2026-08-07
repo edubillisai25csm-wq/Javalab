@@ -27,3 +27,12 @@ public class AbstractDemo extends Example {
         ad.display();
     }
 }
+//output
+/*
+The value of x is: 20
+The value of y is : 30
+sum is :50
+subtraction is : 10
+Multiplication is : 600
+
+*/
